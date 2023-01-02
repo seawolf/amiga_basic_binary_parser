@@ -1,0 +1,4 @@
+INPUT "What is your first name? ", firstName$
+INPUT "What is your last name?  ", lastName$
+
+PRINT "Hello, "; firstName$; " "; lastName$; "!"

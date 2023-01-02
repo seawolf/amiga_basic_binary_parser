@@ -1,0 +1,3 @@
+INPUT "What is your name?  "; userName$
+
+PRINT "Hello, "; userName$; "!"
